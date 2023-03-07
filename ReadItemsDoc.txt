@@ -1,0 +1,34 @@
+X
+Pin
+Opening Locks
+X
+Knife
+VerySharpBeCerful
+X
+EmptyBootle
+CoudBeUsefull
+X
+Lighter
+NoFuelButStillCanSpark
+X
+ScrewDriver
+GoodForRepairs
+X
+Pin
+GoodForOpeningLocks
+X
+GuiterString
+CoutBeUsefulForOpenningWindows
+X
+Classic matches
+"Classic"
+X
+Paracord
+UsefullForClimbing
+X
+SSD drive
+VeryUsellesButYouNeverKnow
+X
+Radio
+MeybeSomeoneWillhearMe
+
